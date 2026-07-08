@@ -1,6 +1,6 @@
 export const profile = {
   avatar:
-    "https://scontent.fceb1-5.fna.fbcdn.net/v/t1.15752-9/311040327_867732997546982_1980456080132276193_n.jpg?stp=dst-webp_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHVVDV4sofftEPyircuvE5zTeMDX8JXWytN4wNfwldbK9c6wZs3aeQZtlF88oeG1ZYbHylEDOZFCCvIzXN0E186&_nc_ohc=hpu_8orYhSgQ7kNvwFguZyy&_nc_oc=AdoBxdfWQfieBQwA9fV619ihu2Aw_Lgnj40kt4twRNrvVMmXP1vHzYGi7ewWexijDrc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fceb1-5.fna&_nc_ss=7a22e&oh=03_Q7cD5wEalx8gRLMIAEyFnKn2cGzF1DEGKPr7xjkYHhM3H-jQBQ&oe=6A750BBA",
+    "https://scontent.fdvo1-1.fna.fbcdn.net/v/t51.82787-15/669682846_18090680390464463_9004784076956788146_n.webp?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s1440x1440&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFXFA8u0tLWa5jJsAmiKdFTveKoyfugFWu94qjJ-6AVa-D7Dw-4zoM406gO11dn80lsnBdYgEnrb5GCbGqMR7n0&_nc_ohc=r4AMeq7oc3wQ7kNvwFilrhT&_nc_oc=AdqQRBKGpTjOy1m4oHlDwGq1l0svIWkOud-FE4UhAgswv3hjXaafCB7eSgDyufZ6_ig&_nc_zt=23&_nc_ht=scontent.fdvo1-1.fna&_nc_gid=1sp19giU8HXqFgFgw8ZTtw&_nc_ss=7b2a8&oh=00_AQAdJshs95cb3nIuCB9Gq3s0eGczeM0y1nKX86DTca6_GA&oe=6A538F4C",
   name: "Joerl Davied Tayong",
   role: "BSIT Student",
   tagline: "Aspiring Depressed Person",

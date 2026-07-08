@@ -15,7 +15,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.deivuiddo.davdavapp"
     },
     "plugins": [
       "expo-router",
@@ -32,6 +33,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d9bd7cef-eaff-47c0-ae97-691c8502f55d"
+      }
     }
   }
 }
